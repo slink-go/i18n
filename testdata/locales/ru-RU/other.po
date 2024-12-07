@@ -1,0 +1,2 @@
+msgid "other localized message: %v"
+msgstr "другое локализованное сообщение: %v"
