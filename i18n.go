@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/leonelquinteros/gotext"
-	"github.com/slink-go/logging"
+	"go.slink.ws/logging"
 	"golang.org/x/text/language"
 	"os"
 	"strings"
